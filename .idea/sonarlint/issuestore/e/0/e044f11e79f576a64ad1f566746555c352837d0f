@@ -1,0 +1,10 @@
+
+ 
+java:S1488"dImmediately return this expression instead of assigning it to the temporary variable "getallClient".(ƒ¾¿”J$aa2b220c-3d42-469b-b4b3-76d2f3922f84
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öçŠşJ$6f265418-a1c0-4f63-b8b6-07aadeaa8c31
+ˆ
+java:S3655"LCall "client.isPresent()" or "!client.isEmpty()" before accessing the value.(ƒ¾¿”J$f04cce3b-2a29-4c5f-adf2-1b29fd0ae41b
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$a4f2063a-953b-423c-96ac-7b921058320d
+g
+java:S1168!"+Return an empty collection instead of null.(¥¹ïJ$ffe97352-e362-4ac7-8625-e709796f16c4
