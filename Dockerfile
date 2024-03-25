@@ -1,8 +1,6 @@
 FROM ubuntu:20.04
-
 # Set working directory
 RUN apt-get update && apt-get install -y maven
-
 
 RUN apt-get install openjdk-17-jdk -y
 
